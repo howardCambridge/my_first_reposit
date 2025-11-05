@@ -15,3 +15,9 @@ Salt[1]
 Gypsum[2]
 Calcite[3]
 ]
+Dogs
+[
+Hounds[1]
+Gun[2]
+Working[3]
+]
