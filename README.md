@@ -10,3 +10,8 @@ Vegetables[
 [2]Carrots
 [3]Parsnips
 ]
+Minerals[
+Salt[1]
+Gypsum[2]
+Calcite[3]
+]
